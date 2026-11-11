@@ -1,0 +1,2 @@
+# Tidak ada dependensi eksternal (hanya Python standard library, Python >= 3.8)
+# Opsional untuk rendering UML: plantuml / mermaid-cli
